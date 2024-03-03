@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **abhishektanwar9596@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rTRbZd2ZJFt5EQCBT7UHrGnq2nZJ_Sm0/view?usp=sharing](https://drive.google.com/file/d/1rTRbZd2ZJFt5EQCBT7UHrGnq2nZJ_Sm0/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishe21035737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe21035737" height="30" width="40" /></a>
